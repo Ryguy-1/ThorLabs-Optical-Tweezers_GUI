@@ -1,4 +1,4 @@
-# ThorLabs-Optical-Tweezers_GUI
+# ThorLabs-Optical-Tweezers-GUI
 
 ## Functionality:
 - Connect to Optical Tweezers using NIDAQ Control software and drivers to gather data and analyze.

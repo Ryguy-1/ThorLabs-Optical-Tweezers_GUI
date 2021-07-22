@@ -5,6 +5,9 @@
 - Auto Calibration of ThorLabs Optical Tweezers Using Analyze Feature and Semi-Auto Gathering data from QPD readout.
 - Generalizable data. Files saved are solely QPD readout vs Time. (QPD for ThorLabs Optical tweezers may not be power calibrated)
 
+![image](https://user-images.githubusercontent.com/20056414/126716581-57f77f04-42f4-4f75-a6f5-45acd737dbe8.png)
+
+
 ## Support
 
 |           | Supports Functionality |

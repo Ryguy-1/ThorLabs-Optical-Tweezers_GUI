@@ -1,7 +1,9 @@
 # ThorLabs-Optical-Tweezers-GUI
 
 ## Functionality:
-- Connect to Optical Tweezers using NIDAQ Control software and drivers to gather data and analyze.
+- Connect to Optical Tweezers using National Instruments NIDAQ Control software and drivers to gather data and analyze.
+- Auto Calibration of ThorLabs Optical Tweezers Using Analyze Feature and Semi-Auto Gathering data from QPD readout.
+- Generalizable data. Files saved are solely QPD readout vs Time. (QPD for ThorLabs Optical tweezers may not be power calibrated)
 
 ## Support
 
@@ -21,5 +23,5 @@ GUI Documentation: [292 Optical Tweezers Documentation](https://docs.google.com/
 
 
 ## Contributors:
-- Emma Li
-- Ryland Birchmeier
+- Emma Li: [Github](https://github.com/emma-l810)
+- Ryland Birchmeier: [Github](https://github.com/Ryguy-1)

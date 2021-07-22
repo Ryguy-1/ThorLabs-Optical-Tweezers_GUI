@@ -11,7 +11,7 @@
 |Graphing Sine|      Yes     |
 |Taking Sawtooth|      Yes     |
 |Graphing Sawtooth|      No     |
-|Taking Power Spectrum|      No     |
+|Taking Power Spectrum|      Yes     |
 |Graphing Power Spectrum|      No     |
 
 

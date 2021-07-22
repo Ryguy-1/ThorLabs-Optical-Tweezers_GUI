@@ -10,7 +10,7 @@
 |Taking Sine|      Yes     |
 |Graphing Sine|      Yes     |
 |Taking Sawtooth|      Yes     |
-|Graphing Sawtooth|      No     |
+|Graphing Sawtooth|      Yes     |
 |Taking Power Spectrum|      Yes     |
 |Graphing Power Spectrum|      No     |
 

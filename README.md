@@ -17,7 +17,7 @@
 |Taking Sawtooth|      Yes     |
 |Graphing Sawtooth|      Yes     |
 |Taking Power Spectrum|      Yes     |
-|Graphing Power Spectrum|      No     |
+|Graphing Power Spectrum|      Yes     |
 
 
 ## Guides:

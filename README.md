@@ -17,13 +17,18 @@
 |Taking Sawtooth|      Yes     |
 |Graphing Sawtooth|      Yes     |
 |Taking Power Spectrum|      Yes     |
-|Graphing Power Spectrum|      Yes     |
+|Graphing Power Spectrum|      In Progress...     |
 
 
 ## Guides:
 
 GUI Documentation: [292 Optical Tweezers Documentation](https://docs.google.com/document/d/1UIyrJpPVibWfCxfNz_ZTX6MNZtwCGOgMLPl32wL9eTw/edit?usp=sharing)
 
+## Next Steps:
+
+Completion of accurately fitting to lorentzian in order to calculate the corner frequency needs work. This is highly dependent on the starting
+approximation. We believe it would be best to make this a user input, but we ran out of time to do so. This should be rather straight forward. Also
+checking back over our math for the other power spectra calculations would be in order and of great use! Thanks to whoever picks this up!
 
 ## Contributors:
 - Emma Li: [Github](https://github.com/emma-l810)
